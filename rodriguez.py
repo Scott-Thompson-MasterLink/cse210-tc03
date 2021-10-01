@@ -1,4 +1,4 @@
 def rodriguez_greeting():
-    print('Heeeyyy how\'re you doing????')
-
-rodriguez_greeting()
+    name = 'Matías Rodríguez'
+    print(f'Hello guys, my name is {name}, and I love to play soccer!')
+    return name
