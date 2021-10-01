@@ -1,5 +1,5 @@
 import thompson
-
+import proksch
 
 
 
@@ -9,7 +9,7 @@ def main():
 
     s_name = thompson.scotts_greeting()
 
-
+    alexs_greeting()
 
     pass
 
