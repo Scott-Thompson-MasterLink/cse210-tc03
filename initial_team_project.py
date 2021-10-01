@@ -1,4 +1,5 @@
-#Placeholder
+import rodriguez
 
 def main():
-    pass
+    rodriguez.rodriguez_greeting()
+
